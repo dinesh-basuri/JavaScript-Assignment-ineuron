@@ -36,5 +36,5 @@
 
 [24 Question](./24%20Question/)
 
-[30 Question](./30%20Question/)
+[30 Question](./30%20Question/) - basic calculator program
 
